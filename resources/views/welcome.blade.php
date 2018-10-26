@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <ahref="{{route('hello.index')}}">Hello</a>
                 </div>
 
                 <div class="links">
